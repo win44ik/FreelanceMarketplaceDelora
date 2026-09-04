@@ -1,0 +1,10 @@
+{
+  "description": "Connect freelancers and clients seamlessly on a user-friendly platform, enabling efficient project collaboration and budget management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
